@@ -1,0 +1,55 @@
+{
+  "Landmarks": 
+  [
+    {
+      "Name": "UPES",
+      "Latitude": "30.3144",
+      "Longitude": "78.0299"
+    },
+    {
+      "Name": "FRI",
+      "Latitude": "30.3034",
+      "Longitude": "77.9978"
+    },
+    {
+      "Name": "KEMPTY FALL",
+      "Latitude": "30.4873",
+      "Longitude": "78.0363"
+    },
+    {
+      "Name": "Robert's cave",
+      "Latitude": "30.3766",
+      "Longitude": "78.0612"
+    },
+    {
+      "Name": "SAHASHTRADHARA",
+      "Latitude": "30.3872",
+      "Longitude": "78.1316"
+    },
+    {
+      "Name": "TAPKESHWAR MANDIR",
+      "Latitude": "30.3573",
+      "Longitude": "78.0167"
+    },
+    {
+      "Name": "RAJAJI NATIONAL PARK",
+      "Latitude": "30.0476",
+      "Longitude": "78.1707"
+    },
+    {
+      "Name": "BUDDHA TEMPLE",
+      "Latitude": "30.2597",
+      "Longitude": "77.9967"
+    },
+    {
+      "Name": "MALSI DEER PARK",
+      "Latitude": "30.3883",
+      "Longitude": "78.0756"
+    },
+    {
+      "Name": "GEORGE EVEREST PEAK",
+      "Latitude": "30.4587",
+      "Longitude": "78.0231"
+    }
+  ]
+}
